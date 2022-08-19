@@ -1,9 +1,7 @@
 module.exports = {
   docs: [
-    {
-      type: 'category',
-      label: 'Home',
-      items: ['index', 'data-driven',],
-    }
+    'index',
+    'data-driven',
+    'contact_us'
   ]
 };
